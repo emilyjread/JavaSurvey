@@ -1,4 +1,4 @@
-package com.example.dojosurvey;
+package com.example.dojosurvey.controllers;
 import javax.servlet.http.HttpSession;
 
 import org.springframework.stereotype.Controller;
@@ -27,7 +27,6 @@ public class SurveyController {
 			return "redirect:/java";
 		}
 
-		
 		return "redirect:/results";
 	}
 	
