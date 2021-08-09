@@ -1,0 +1,13 @@
+.container{
+	padding: 5% 20%;
+	outline: 1px solid black;	
+}
+
+.input{
+	display: block;
+}
+
+b{
+	min-width: 200px;
+	color: blue;
+}
